@@ -1,4 +1,4 @@
-//1)첫번째방식(출력될 수열이 중복출력되는 것인지 확인)(가장직관적으로 알아낼 수 있는 방식)
+//2) reverse함수를 이용하는 방식. 코드가독성, 작성효율 면에서 좋음. -> 이걸 사용하도록 하자
 #include <iostream>
 #include <algorithm> // next_permutation 사용
 #include <vector>
