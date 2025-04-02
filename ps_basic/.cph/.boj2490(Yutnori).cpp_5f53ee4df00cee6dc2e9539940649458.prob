@@ -1,0 +1,1 @@
+{"name":"Local: boj2490(Yutnori)","url":"d:\\workspace\\vscode-workspace\\C,C++\\ps_basic\\boj2490(Yutnori).cpp","tests":[{"id":1692016605030,"input":"0 1 0 1\n1 1 1 0\n0 0 1 1","output":"B\nA\nB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\workspace\\vscode-workspace\\C,C++\\ps_basic\\boj2490(Yutnori).cpp","group":"local","local":true}
